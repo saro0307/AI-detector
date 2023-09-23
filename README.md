@@ -58,16 +58,3 @@ else:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Be sure to acknowledge any libraries, tools, or resources you used during the project.
-- If you used a specific dataset, provide a citation or source link.
-
-## Additional Information
-
-Feel free to add any additional information, FAQs, or troubleshooting tips as needed for users who may work with your code.
-
----
-
-That's it! You now have a basic README file to guide users through building and using a machine learning model to distinguish between human and ChatGPT-generated text. Customize it to your project's specific details and requirements.
